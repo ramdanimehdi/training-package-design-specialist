@@ -1,0 +1,2 @@
+b8d359900bfb66da27c83c8bf07a41b24572086599da0d66060d8a0224f184e4  training-package-design-specialist-agent-skills.zip
+f28b20b4d49e7e6e9dc82a52dc4d86d486678f09b782f0a7327617e17ff61023  training-package-design-specialist-claude.zip

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+# Private course sources and generated course packages stay outside distribution.
+projects/
